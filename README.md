@@ -14,7 +14,7 @@ This repository showcases an end-to-end data engineering project where data from
 ## Project Architecture
 
 ### 1. Data Ingestion
-- **Source:** Online retail store data.
+- **Source:** Online retail store data https://archive.ics.uci.edu/dataset/352/online+retail .
 - **Destination:** Azure Data Lake (Bronze layer container).
 
 ### 2. Data Transformation
